@@ -1,2 +1,5 @@
 # lluchus-homepage
-lluchus one-page scroller home page
+
+V1.1
+
+Lluchus homepage connected to cloud9
