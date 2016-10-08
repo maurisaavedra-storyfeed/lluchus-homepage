@@ -1,5 +1,2 @@
-# lluchus-homepage
-
-V1.1
-
-Lluchus homepage connected to cloud9
+# lluchus-saavedra
+One Page Scroll Home Page of Lluchus.com
